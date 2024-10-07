@@ -1,0 +1,25 @@
+{
+  "name": "toqio_cypress",
+  "version": "1.0.0",
+  "description": "tokio cypress framework",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msen2020/toqio_cypress.git"
+  },
+  "keywords": [
+    "Githubmsen2020"
+  ],
+  "author": "QA MSEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msen2020/toqio_cypress/issues"
+  },
+  "homepage": "https://github.com/msen2020/toqio_cypress#readme",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  }
+}
