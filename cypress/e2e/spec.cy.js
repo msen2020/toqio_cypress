@@ -1,4 +1,4 @@
-describe('Login to the librsry application', () => {
+describe('template spec', () => {
   it('passes', () => {
     cy.visit('https://example.cypress.io')
   })
